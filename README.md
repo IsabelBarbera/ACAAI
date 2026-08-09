@@ -58,7 +58,7 @@ Feedback, critique, implementation experience and research contributions are wel
 
 If you use or reference ACAAI in research, publications or professional work, please cite the framework:
 
-> Barberá, I. (2026). *ACAAI: Accountability by Design for Agentic AI: A Lifecycle Framework for Engineering Accountability in Autonomous AI Systems* (Version 1.0). [DOI]
+> Barberá, I. (2026). ACAAI - Accountability by Design for Agentic AI: A Lifecycle Framework for Engineering Accountability in Autonomous AI Systems (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21856005]
 
 ## Contributing
 
