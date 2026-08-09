@@ -34,7 +34,7 @@ The controls are intended to support **risk-based implementation**. Their applic
 
 The complete **ACAAI Version 1.0** framework is available as a PDF in this repository:
 
-[**Read ACAAI v1.0 (PDF)**](./ACAAI.pdf)
+[**Read ACAAI Framework v1.0 (PDF)**](./ACAAI%20Framework%201.0%20.pdf)
 
 ## Purpose
 
