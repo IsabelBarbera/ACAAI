@@ -4,7 +4,7 @@
 
 **Version 1.1**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21856005.svg)](https://doi.org/10.5281/zenodo.21856005)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23144096.svg)](https://doi.org/10.5281/zenodo.23144096)
 
 ACAAI is an open framework for engineering accountability into agentic AI systems throughout their lifecycle.
 
@@ -31,7 +31,7 @@ ACAAI includes **100+ organizational and technical controls** for operationalizi
 The complete **ACAAI Version 1.1** framework is available as a PDF in this GitHub repository and in Zenodo:
 
 - [**GitHub: ACAAI Framework v1.1 (PDF)**](./ACAAI%20Framework%201.1.pdf)
-- [**Zenodo: ACAAI Framework v1.1 (PDF)**](https://doi.org/10.5281/zenodo.21856005)
+- [**Zenodo: ACAAI Framework v1.1 (PDF)**](https://doi.org/10.5281/zenodo.23144096)
 
 ## Purpose
 
@@ -52,7 +52,7 @@ Further research and practical implementation are encouraged to evaluate the fra
 
 If you use or reference ACAAI in research, publications or professional work, please cite the framework:
 
-> Barberá, I. (2026). ACAAI - Accountability by Design for Agentic AI: A Lifecycle Framework for Engineering Accountability in Autonomous AI Systems (Version 1.0). Zenodo. [https://doi.org/10.5281/zenodo.21856005]
+> Barberá, I. (2026). ACAAI - Accountability by Design for Agentic AI: A Lifecycle Framework for Engineering Accountability in Autonomous AI Systems (Version 1.0). Zenodo. [https://doi.org/10.5281/zenodo.23144096]
 
 ## Contributing
 
