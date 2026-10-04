@@ -2,7 +2,7 @@
 
 ### A Lifecycle Framework for Engineering Accountability in Autonomous AI Systems
 
-**Version 1.0**
+**Version 1.1**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21856005.svg)](https://doi.org/10.5281/zenodo.21856005)
 
@@ -28,10 +28,10 @@ ACAAI includes **100+ organizational and technical controls** for operationalizi
 
 ## Read ACAAI
 
-The complete **ACAAI Version 1.0** framework is available as a PDF in this GitHub repository and in Zenodo:
+The complete **ACAAI Version 1.1** framework is available as a PDF in this GitHub repository and in Zenodo:
 
-- [**GitHub: ACAAI Framework v1.0 (PDF)**](./ACAAI%20Framework%201.0%20.pdf)
-- [**Zenodo: ACAAI Framework v1.0 (PDF)**](https://doi.org/10.5281/zenodo.21856005)
+- [**GitHub: ACAAI Framework v1.1 (PDF)**](./ACAAI%20Framework%201.1.pdf)
+- [**Zenodo: ACAAI Framework v1.1 (PDF)**](https://doi.org/10.5281/zenodo.21856005)
 
 ## Purpose
 
